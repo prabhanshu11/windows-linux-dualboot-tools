@@ -19,5 +19,5 @@
    ### How to run from GitHub directly
    Run this in PowerShell as administrator:
    ```powershell
-   irm https://raw.githubusercontent.com/YourUsername/windows-linux-dualboot-tools/main/SimpleWindowsTimeFixForDualBoot.ps1 | iex
+   irm https://raw.githubusercontent.com/prabhanshu11/windows-linux-dualboot-tools/main/SimpleWindowsTimeFixForDualBoot.ps1 | iex
    ```
